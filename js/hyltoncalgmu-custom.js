@@ -5,6 +5,9 @@ jQuery(document).ready(function(){
 	// Debug
 	//alert('custom js file loaded');
 
+	// Fix href of site logo to go back to main Hylton site
+	jQuery(".site-logo a").prop("href", "https://hyltoncenter.org")
+
 	// Fix text of event details buttons for the veterans and the arts initiative events
 	jQuery('.event-entry-veterans-and-the-arts-initiative-summer-2022-veterans-virtual-guitar-workshops-level-i .event_details_button a').text('register');
 	jQuery('.event-entry-veterans-and-the-arts-initiative-summer-2022-veterans-virtual-guitar-workshops-level-ii .event_details_button a').text('register');
