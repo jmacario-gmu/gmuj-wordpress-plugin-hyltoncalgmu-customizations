@@ -1,1 +1,18 @@
 /* hyltoncalgmu custom scripts */
+
+jQuery(document).ready(function(){
+
+	// Debug
+	//alert('custom js file loaded');
+
+	// Fix text of event details buttons for the veterans and the arts initiative events
+	jQuery('.event-entry-veterans-and-the-arts-initiative-summer-2022-veterans-virtual-guitar-workshops-level-i .event_details_button a').text('register');
+	jQuery('.event-entry-veterans-and-the-arts-initiative-summer-2022-veterans-virtual-guitar-workshops-level-ii .event_details_button a').text('register');
+	jQuery('.event-entry-veterans-virtual-guitar-workshops-level-i .event_details_button a').text('register');
+	jQuery('.event-entry-veterans-virtual-guitar-workshops-level-ii .event_details_button a').text('register');
+	jQuery('.event-entry-basic-landscape-photography-using-a-smartphone .event_details_button a').text('register');
+	jQuery('.event-entry-sneaker-sculpture-workshops .event_details_button a').text('register');
+	jQuery('.event-entry-basic-portrait-photography-using-a-smartphone .event_details_button a').text('register');
+	jQuery('.event-entry-basic-close-up-and-macro-photography-using-a-smartphone .event_details_button a').text('register');
+
+});
