@@ -17,5 +17,6 @@ jQuery(document).ready(function(){
 	jQuery('.event-entry-sneaker-sculpture-workshops .event_details_button a').text('register');
 	jQuery('.event-entry-basic-portrait-photography-using-a-smartphone .event_details_button a').text('register');
 	jQuery('.event-entry-basic-close-up-and-macro-photography-using-a-smartphone .event_details_button a').text('register');
+	jQuery('.event-entry-exploring-innovative-collage-techniques-through-botanical-imagery .event_details_button a').text('register');
 
 });
