@@ -19,4 +19,12 @@ jQuery(document).ready(function(){
 	jQuery('.event-entry-basic-close-up-and-macro-photography-using-a-smartphone .event_details_button a').text('register');
 	jQuery('.event-entry-exploring-innovative-collage-techniques-through-botanical-imagery .event_details_button a').text('register');
 
+	jQuery('.event-entry-spring-2023-veterans-virtual-guitar-workshops-level-i .event_details_button a').text('register');
+	jQuery('.event-entry-spring-2023-veterans-virtual-guitar-workshops-level-ii .event_details_button a').text('register');
+	jQuery('.event-entry-spring-2023-songwriting-series-for-military-kids .event_details_button a').text('register');
+	jQuery('.event-entry-graphic-arts-8211-exploration-of-hands-on-arts-practices .event_details_button a').text('register');
+	jQuery('.event-entry-spring-2023-ukulele-workshop-series-level-i .event_details_button a').text('register');
+	jQuery('.event-entry-cammo-voices .event_details_button a').text('register');
+	jQuery('.event-entry-spring-2023-basic-landscape-photography-using-a-smartphone .event_details_button a').text('register');
+
 });
