@@ -24,7 +24,8 @@ jQuery(document).ready(function(){
 	jQuery('.event-entry-spring-2023-songwriting-series-for-military-kids .event_details_button a').text('register');
 	jQuery('.event-entry-graphic-arts-8211-exploration-of-hands-on-arts-practices .event_details_button a').text('register');
 	jQuery('.event-entry-spring-2023-ukulele-workshop-series-level-i .event_details_button a').text('register');
-	jQuery('.event-entry-cammo-voices .event_details_button a').text('register');
+	jQuery('.event-entry-spring-2023-ukulele-workshop-series-level-ii .event_details_button a').text('register');
+	jQuery('.event-entry-observing-the-world-through-a-lens-photography-workshop-series-for-women-veterans .event_details_button a').text('register');
 	jQuery('.event-entry-spring-2023-basic-landscape-photography-using-a-smartphone .event_details_button a').text('register');
 
 });
