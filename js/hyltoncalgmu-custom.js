@@ -28,4 +28,11 @@ jQuery(document).ready(function(){
 	jQuery('.event-entry-observing-the-world-through-a-lens-photography-workshop-series-for-women-veterans .event_details_button a').text('register');
 	jQuery('.event-entry-spring-2023-basic-landscape-photography-using-a-smartphone .event_details_button a').text('register');
 
+	// Fix text of event details buttons for the gallery exhibitions
+	jQuery('.event-entry-gallery-exhibit-bennie-herron-zero-and-one .event_details_button a').text('Learn More');
+	jQuery('.event-entry-gallery-exhibit-elizabeth-hall-viriditas .event_details_button a').text('Learn More');
+	jQuery('.event-entry-11th-annual-prince-william-county-public-schools-student-exhibition .event_details_button a').text('Learn More');
+	jQuery('.event-entry-eric-garner-multiple-repeat-mistakes .event_details_button a').text('Learn More');
+	jQuery('.event-entry-patricia-underwood-signs-amp-symbols .event_details_button a').text('Learn More');
+
 });
