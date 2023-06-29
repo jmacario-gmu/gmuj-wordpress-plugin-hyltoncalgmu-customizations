@@ -28,6 +28,14 @@ jQuery(document).ready(function(){
 	jQuery('.event-entry-observing-the-world-through-a-lens-photography-workshop-series-for-women-veterans .event_details_button a').text('register');
 	jQuery('.event-entry-spring-2023-basic-landscape-photography-using-a-smartphone .event_details_button a').text('register');
 
+	jQuery('.event-entry-ukulele-workshop-hum-and-strum-at-central-library .event_details_button a').text('Register');
+	jQuery('.event-entry-ukulele-workshop-hum-and-strum-at-potomac-library .event_details_button a').text('Register');
+	jQuery('.event-entry-eco-graphic-arts-workshops .event_details_button a').text('Register');
+	jQuery('.event-entry-veterans-virtual-guitar-workshops-level-i .event_details_button a').text('Register');
+	jQuery('.event-entry-veterans-virtual-guitar-workshops-level-ii .event_details_button a').text('Register');
+	jQuery('.event-entry-improv-for-military-kids .event_details_button a').text('Register');
+	jQuery('.event-entry-the-u-s-army-blues-veterans-tribute .event_details_button a').text('Register');
+
 	// Fix text of event details buttons for the gallery exhibitions
 	jQuery('.event-entry-gallery-exhibit-bennie-herron-zero-and-one .event_details_button a').text('Learn More');
 	jQuery('.event-entry-gallery-exhibit-elizabeth-hall-viriditas .event_details_button a').text('Learn More');
