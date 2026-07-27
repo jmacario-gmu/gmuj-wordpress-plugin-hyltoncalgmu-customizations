@@ -15,7 +15,8 @@ function gmuj_hyltoncalgmu_c_enqueue_scripts() {
   wp_enqueue_script(
     'gmuj_hyloncalgmu_c_js', //script name
     plugin_dir_url( __DIR__ ).'js/hyltoncalgmu-custom.js', //path to script
-    array('jquery') //dependencies
+    array('jquery'), //dependencies
+    '1785180568'
   );
 
 }
