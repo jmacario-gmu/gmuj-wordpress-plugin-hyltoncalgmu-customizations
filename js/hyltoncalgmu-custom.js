@@ -5,8 +5,14 @@ jQuery(document).ready(function(){
 	// Debug
 	//alert('custom js file loaded');
 
-	// Fix href of site logo to go back to main Hylton site
-	jQuery(".site-logo a").prop("href", "https://hyltoncenter.org")
+	// Modify href of site logo to go to main Hylton site
+	jQuery(".header-logo a").prop("href", "https://hyltoncenter.org")
+
+	// Modify href of site title to go to main Hylton site
+	//jQuery(".site-name a").prop("href", "https://hyltoncenter.org")
+
+	// Modify href of main nav home link to go to main Hylton site
+	jQuery(".gmuw_main_nav_home a").prop("href", "https://hyltoncenter.org")
 
 	// Fix text of event details buttons for all the veterans and the arts initiative events
 	jQuery('.event-entry.event-group-veterans-and-the-arts-initiative .event_details_button a').text('Register');
