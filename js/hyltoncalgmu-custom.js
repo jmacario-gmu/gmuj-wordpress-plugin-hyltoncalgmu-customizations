@@ -9,7 +9,7 @@ jQuery(document).ready(function(){
 	jQuery(".header-logo a").prop("href", "https://hyltoncenter.org")
 
 	// Modify href of site title to go to main Hylton site
-	//jQuery(".site-name a").prop("href", "https://hyltoncenter.org")
+	jQuery(".site-name a").prop("href", "https://hyltoncenter.org")
 
 	// Modify href of main nav home link to go to main Hylton site
 	jQuery(".gmuw_main_nav_home a").prop("href", "https://hyltoncenter.org")
